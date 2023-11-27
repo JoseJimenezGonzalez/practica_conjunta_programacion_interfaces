@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toTopOf="@id/btn1"
-        android:text="Practicas de programación e interfaces"
+        android:text="Practicas de programación e interfacess"
         android:textAlignment="center"
         android:textSize="30sp"
         android:textColor="@color/white">
